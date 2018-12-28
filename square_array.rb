@@ -1,3 +1,11 @@
 def square_array(array)
   # your code here
-end
+  new_array = []
+   array.each {a *a}
+   return new_array
+  
+  
+  
+end   
+  
+  
